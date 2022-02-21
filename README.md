@@ -2,6 +2,11 @@
 
 # Hey there!
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerd+Font&color=%2398971A&lines=Welcome+to+my+GitHub!&center=true"></a>
+</p>
+
+
 My name is Dennis Feldbusch and I'm a software developer/Bachelor student at University of Applied Science in Darmstadt for Information Technologies. I'm from Germany and living near Frankfurt. 
 
 ## 🔧 Technologies & Tools
