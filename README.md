@@ -15,7 +15,7 @@ My name is Dennis Feldbusch and I'm a software developer/Bachelor student at Uni
 ![](https://img.shields.io/badge/Interests-Security-informational?style=flats&logo=hackaday&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Terminal-iTerm-informational?style=flat&logo=iterm&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=98971a)
-![](https://img.shields.io/badge/Writing-LaTex-informational?style=flat&logo=latex&logoColor=white&color=98971a)
+![](https://img.shields.io/badge/Writing-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=arm&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=98971a)
