@@ -7,7 +7,7 @@
 </p>
 
 
-My name is Dennis Feldbusch and I'm a software developer/Bachelor student at University of Applied Science in Darmstadt for Information Technologies. I'm from Germany and living near Frankfurt. 
+My name is Dennis Feldbusch and I'm a software developer/Bachelor student at University of Applied Science in Darmstadt for Computer Science. I'm from Germany and living near Frankfurt. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=98971a)
