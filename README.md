@@ -32,6 +32,9 @@ My name is Dennis Feldbusch and I'm a software developer/Bachelor student at Uni
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DennisFeldbusch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=a89984&icon_color=98971a&bg_color=282828&border_color=282828&border_radius=10" alt="Dennis' GitHub Stats" />
 </a>
 
+## &#x1f512; HTB
+<img src="http://www.hackthebox.eu/badge/image/249391" alt="Hack The Box">
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
