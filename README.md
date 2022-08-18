@@ -11,7 +11,7 @@ My name is Dennis Feldbusch and I'm a pentester/software developer/Bachelor stud
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=98971a)
-![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=98971a)
+![](https://img.shields.io/badge/OS-Kali_Linux/ParrotOS/BlackArch-informational?style=flat&logo=kalilinux&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Interests-Security-informational?style=flats&logo=hackaday&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Terminal-iTerm-informational?style=flat&logo=iterm&logoColor=white&color=98971a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=98971a)
