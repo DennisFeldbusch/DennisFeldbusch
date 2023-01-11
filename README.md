@@ -24,17 +24,22 @@ My name is Dennis Feldbusch and I'm a pentester/software developer/Bachelor stud
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=98971a)
 
 ## &#x1f4c8; GitHub Stats
-
+<p align="center">
 <a href="https://github.com/DennisFeldbusch/DennisFeldbusch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisFeldbusch&hide=VHDL,Assembly,Vim%20Script,Vim%20Snippet&title_color=ffffff&text_color=a89984&icon_color=98971a&bg_color=282828&langs_count=3&border_color=282828&border_radius=10" />
 </a>
 <a href="https://github.com/DennisFeldbusch/DennisFeldbusch">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DennisFeldbusch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=a89984&icon_color=98971a&bg_color=282828&border_color=282828&border_radius=10" alt="Dennis' GitHub Stats" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=DennisFeldbusch&theme=dark&hide_border=true&background=282828&border_radius=10&ring=98971a&fire=cc241d&currStreakLabel=cc241d" alt="Github Streak" />
+</a>
+  </p>
 
 ## &#x1f512; HTB
+<p align="center">
 <img src="http://www.hackthebox.eu/badge/image/249391" alt="Hack The Box">
-
+</p>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
