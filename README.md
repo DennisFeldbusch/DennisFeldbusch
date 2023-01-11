@@ -38,7 +38,9 @@ My name is Dennis Feldbusch and I'm a pentester/software developer/Bachelor stud
 
 ## &#x1f512; HTB
 <p align="center">
+  <a href="https://app.hackthebox.com/profile/249391">
 <img src="http://www.hackthebox.eu/badge/image/249391" alt="Hack The Box">
+  </a>
 </p>
 <!-- links to social media icons -->
 
