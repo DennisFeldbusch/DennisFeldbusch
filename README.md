@@ -34,6 +34,9 @@ My name is Dennis Feldbusch and I'm a pentester/software developer/Bachelor stud
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com/?user=DennisFeldbusch&theme=dark&hide_border=true&background=282828&border_radius=10&ring=98971a&fire=cc241d&currStreakLabel=cc241d" alt="Github Streak" />
 </a>
+<a href="">
+  <img align="center" src="https://raw.githubusercontent.com/DennisFeldbusch/DennisFeldbusch/main/profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" />
+</a>
   </p>
 
 ## &#x1f512; HTB
