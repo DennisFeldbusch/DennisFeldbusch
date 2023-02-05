@@ -6,8 +6,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerd+Font&color=%2398971A&lines=Welcome+to+my+GitHub!&center=true"></a>
 </p>
 
-
-My name is Dennis Feldbusch and I'm a pentester/software developer/Bachelor student at University of Applied Science in Darmstadt for Computer Science. I'm from Germany and living near Frankfurt. 
+- Name: Dennis Feldbusch
+- Occupation: Pentester/Bachelor student
+- Institution: University of Applied Science in Darmstadt (Computer Science)
+- Location: Germany, near Frankfurt
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=98971a)
