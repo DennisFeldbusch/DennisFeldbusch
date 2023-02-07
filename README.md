@@ -28,9 +28,6 @@
 ## &#x1f4c8; GitHub Stats
 <p align="center">
 <a href="https://github.com/DennisFeldbusch/DennisFeldbusch">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DennisFeldbusch&hide=VHDL,Assembly,Vim%20Script,Vim%20Snippet&title_color=ffffff&text_color=a89984&icon_color=98971a&bg_color=282828&langs_count=3&border_color=282828&border_radius=10" />
-</a>
-<a href="https://github.com/DennisFeldbusch/DennisFeldbusch">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DennisFeldbusch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=a89984&icon_color=98971a&bg_color=282828&border_color=282828&border_radius=10" alt="Dennis' GitHub Stats" />
 </a>
 <a href="https://git.io/streak-stats">
