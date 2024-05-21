@@ -7,8 +7,8 @@
 </p>
 
 - 👨🏼‍💻Name: Dennis Feldbusch
-- 👨🏼‍🎓Occupation: Pentester/Bachelor student
-- 🏫Institution: University of Applied Science in Darmstadt (Computer Science)
+- 👨🏼‍🎓Occupation: Pentester/Master IT security student
+- 🏫Institution: Technical University Darmstadt (Department of Computer Science)
 - 📍Location: Germany, near Frankfurt
 
 ## 🔧 Technologies & Tools
